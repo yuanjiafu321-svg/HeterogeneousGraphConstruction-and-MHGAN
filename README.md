@@ -20,21 +20,6 @@ This repository provides a reproducible implementation of a **heterogeneous grap
 
 ---
 
-## Repository layout
-
-Suggested structure (you may rename files as needed):
-
-```
-.
-├─ train_mhgan.py                 # main training script (PyTorch Geometric)
-├─ README.md
-├─ data/
-│  └─ processed_nodes.xlsx        # NOT included (user-provided)
-└─ outputs/
-   └─ predictions_all_nodes.csv   # generated
-```
-
----
 
 ## Requirements
 
