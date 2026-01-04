@@ -128,11 +128,6 @@ python train_mhgan.py   --data_path data/processed_nodes.xlsx   --seed 2   --epo
 - Random seeds are fixed via `set_seed(seed)`.
 - Results are deterministic given the same seed, data, and hardware/software stack.
 
----
-
-## License
-
-Choose a license before releasing publicly (e.g., MIT, Apache-2.0). If uncertain, keep the repository private until you decide.
 
 ---
 
